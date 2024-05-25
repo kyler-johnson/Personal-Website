@@ -1,3 +1,7 @@
-body {
-    background-image: url("PersonalWebsiteBackground.png")
+<style>
+  body {
+    background-image: url("PersonalWebsiteBackground.png");
+    margin: 0;
+    background-size: 100%;
   }
+</style>
